@@ -13,6 +13,5 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaadziad&show_icons=true&locale=en&layout=compact" alt="asaadziad" /></p>
-<br>
-<br>
+<p> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaadziad&show_icons=true&locale=en" alt="asaadziad" /></p>
