@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Israel</h3>
 
 <p align="left"> <a href="https://twitter.com/asaadziad1" target="blank"><img src="https://img.shields.io/twitter/follow/asaadziad1?logo=twitter&style=for-the-badge" alt="asaadziad1" /></a> </p>
 
