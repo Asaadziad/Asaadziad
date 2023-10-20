@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer that focuses on C/C++ programming. I have passion for Javascript, front end frameworks such as React, OOP and Memory Management. To grow my skills I focus on building 420Storage a SRM (Supplier Relation Manager) as a Tech-volunteering project  for small suppliers on a low budget.
+I am a Software Developer that focuses on C/C++ programming. I build some useful stuff and alot of stupid stuff :) and i have fun while doing it.
 
 
 ## 🌐 Socials:
