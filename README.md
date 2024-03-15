@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer. I build some useful stuff and alot of stupid stuff :) and i have fun while doing it.
+I am a CS student and i love Software! I build some useful stuff and alot of stupid stuff :) and i have fun while doing it.
 
 
 ## 🌐 Socials:
