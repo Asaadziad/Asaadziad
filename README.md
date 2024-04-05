@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am a CS student and i love Software! I build some useful stuff and alot of stupid stuff :) and i have fun while doing it.
 
+Currently looking for internship. Contact me for more info :)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asaadabuelhija) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asaad-abu-elhija/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Asaadziad1) 
